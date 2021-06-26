@@ -1,0 +1,2 @@
+rootProject.name='EVSPLASH_SCREEN'
+include ':app'

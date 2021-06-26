@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EVSPLASH_SCREEN</string>
+    <string name="logo_name">Get A Ev stations</string>
+    <string name="slogan_name">we will help you to find your EV charging station!</string>
+    <string name="powered_by">Powered by Anurag </string>
+
+    <!-- Strings for on Boarding screen -->
+    <string name="first_slide_title">Search Ev Charging Station</string>
+    <string name="second_slide_title">Map navigation</string>
+    <string name="third_slide_title">Add Ev Station</string>
+    <string name="fourth_slide_title">Have your own EV Station</string>
+
+    <!-- Description -->
+    <string name="first_slide_desc">You can search any Ev Stations nearby or within specified location</string>
+    <string name="second_slide_desc">We provide you the information of all ev station nearby you</string>
+    <string name="third_slide_desc">If you have Ev Station and want to register on our platform you can register here </string>
+    <string name="fourth_slide_desc">Install you own EV station at your location for commercial or non commercial purpose</string>
+
+
+    <!-- Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+</resources>
